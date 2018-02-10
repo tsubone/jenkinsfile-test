@@ -6,6 +6,6 @@ node{
         echo "hello 2"
     }
     stage ("hello3"){
-        echo "hello 3"
+        echo "updated hello 3"
     }
 }
